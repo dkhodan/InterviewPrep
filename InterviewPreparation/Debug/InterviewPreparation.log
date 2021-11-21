@@ -1,0 +1,7 @@
+﻿  LongestSubstring.cpp
+C:\Users\dkhod\source\repos\InterviewPreparation\InterviewPreparation\LongestSubstring.cpp(18,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dkhod\source\repos\InterviewPreparation\InterviewPreparation\LongestSubstring.cpp(21,48): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\dkhod\source\repos\InterviewPreparation\InterviewPreparation\LongestSubstring.cpp(25,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dkhod\source\repos\InterviewPreparation\InterviewPreparation\LongestSubstring.cpp(34,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dkhod\source\repos\InterviewPreparation\InterviewPreparation\LongestSubstring.cpp(40): warning C4715: 'Solution::lengthOfLongestSubstring': not all control paths return a value
+  InterviewPreparation.vcxproj -> C:\Users\dkhod\source\repos\InterviewPreparation\Debug\InterviewPreparation.exe
